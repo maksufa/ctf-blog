@@ -4,7 +4,7 @@ date: 2025-10-17 09:00:00 +0100
 categories: [Blog, Introduction]
 tags: [welcome, hackthebox, ctf, cybersecurity]
 image:
-  path: /assets/images/maks.png
+  path: /assets/images/avatar.png
   alt: Maks Ufa
 ---
 
